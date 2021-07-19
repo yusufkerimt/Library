@@ -10,7 +10,8 @@ namespace ConsoleUI
             Console.WriteLine("Sellamaleykkuum");
             Console.WriteLine("Sellamaleykkuum");
             Console.WriteLine("Sellamaleykkuum");
-            Console.WriteLine("Sellamaleykkuum");
+            Console.WriteLine("deneme");
+
         }
     }
 

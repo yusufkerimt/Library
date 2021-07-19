@@ -11,6 +11,8 @@ namespace ConsoleUI
             Console.WriteLine("Sellamaleykkuum");
             Console.WriteLine("Sellamaleykkuum");
             Console.WriteLine("deneme");
+            Console.WriteLine("sadf");
+            Console.WriteLine("dsfd");
 
         }
     }
